@@ -1,0 +1,30 @@
+36 Paint Materials -  High Quality different colours  paint material. 
+
+Texture for use in any games. Texture Materials are in 2048x2048 resolution TARGA Files.
+
+Texture and Resolutions:
+
+Base Color 2048x2048
+
+Normal Map 2048x2048
+
+AO (Occlusion Map) 2048x2048
+
+Specular Map 2048x2048
+
+Height Map 2048x2048
+
+Features:
+Number of Textures: 145
+
+Supported Development Platforms: Windows, Mac, PS4, Xbox One
+
+Supported Target Creation Platforms: Windows, Mac, PS4, Xbox One
+
+Targeted Platform: PC, Console, Mac
+
+Platforms Tested: Windows
+
+Render Screenshots: some screenshots rendered in Marmoset
+
+Note: All textures are imported at 512 x 512 for fast and correct import process in your Unity. You can adjust resolution up to 2048 in inspector for higher quality.
